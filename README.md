@@ -1,4 +1,4 @@
-ALetterForMom
+A Letter For Mom
 =============
 
-A small flash game I created for Mother's Day last year. .Fla and project files aren't included since this repository is just meant to showcase the code.
+A short game I created for Mother's Day with the help of some of my friends. I programmed the entire game using Flash AS3, while my friends created the art and audio assets.
